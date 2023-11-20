@@ -1,6 +1,6 @@
-# Тестовый проект для работы с redux-toolkit и rtk-query
+## Тестовый проект для работы с redux-toolkit и rtk-query
 
-## Available Scripts:
+### Available Scripts:
 
 В каталоге проекта можно выполнить команды:
 
@@ -8,7 +8,7 @@
 
 Установка необходимых для работы проекта пакетов и зависимостей.
 
-## `json-server --watch db.json --port 5000`
+### `json-server --watch db.json --port 5000`
 
 Start JSON Server на выбранном порте.
 
